@@ -13,7 +13,7 @@ the following packages:
 # Usage:
 
 ```
-demux_plots.R </path/to/Stats.json>
+Rscript demux_plots.R </path/to/Stats.json>
 ```
 
 Will generate three PDFs in your current directory:
