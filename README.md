@@ -1,7 +1,7 @@
-# demux_stats_plots
+## demux_stats_plots
 Create plots for Illumina bcl2fastq Stats.json
 
-# Requires: 
+### Requires: 
 
 R (I have only tested v3.2.1, but suspect it will work with many others) with
 the following packages:
@@ -10,7 +10,7 @@ the following packages:
 - reshape2
 - ggplot2
 
-# Usage:
+### Usage:
 
 ```
 Rscript demux_plots.R </path/to/Stats.json>
