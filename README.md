@@ -1,3 +1,13 @@
+## run_bcl2fastq.sh
+Demultiplex illumina runs using bcl2fastq on HMS O2
+
+### Requires: 
+
+Written to run on HMS O2 cluster.
+
+- bcl2fastq (currently uses version 2.20.0.422)
+
+
 ## demux_stats_plots
 Create plots for Illumina bcl2fastq Stats.json
 
