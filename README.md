@@ -38,4 +38,4 @@ Will generate three PDFs in your current directory:
 
 
 ## To Do:
-- Add GGGGGGGG to SampleSheet.csv for demux'ing phiX spike-in content
+- Add GGGGGGGG to SampleSheet.csv for demux'ing phiX spike-in content (also modify the csv report accordingly)
