@@ -35,3 +35,7 @@ Will generate three PDFs in your current directory:
 <Flowcell ID>_demultiplex.pdf
 <Flowcell ID>_unknown_barcodes.pdf
 ```
+
+
+## To Do:
+- Add GGGGGGGG to SampleSheet.csv for demux'ing phiX spike-in content
